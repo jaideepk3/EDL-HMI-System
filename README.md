@@ -1,4 +1,4 @@
-# HMI System for Corrosion Monitoring
+# HMI System for Corrosion Monitoring Product WEL-iPEC
 
 This repository contains the development files for a Human Machine Interface (HMI) system designed for use with a corrosion monitoring product (iPEC-Probe). The HMI system includes a user interface with buttons connected to a microcontroller. Due to the unavailability of direct connection with the iPEC Probe, various sensors have been used to simulate data that will be displayed on the LCD screen.
 
