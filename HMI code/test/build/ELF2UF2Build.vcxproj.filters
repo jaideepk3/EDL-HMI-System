@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\7e786460fbb593f43e9125236ac5f15b\ELF2UF2Build-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\175d046a1a0f601e76c883ce349b2ecd\ELF2UF2Build-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\build\CMakeFiles\ed6bcf35e63f5b00e0ab1f8dbbc2ccf7\ELF2UF2Build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\pico\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\pico\test\build\CMakeFiles\ELF2UF2Build" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{268BDA97-38FD-3D2B-B4C6-1055092DC653}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

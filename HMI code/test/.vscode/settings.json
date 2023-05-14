@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "fonts.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "popup.h": "c",
+        "ui.h": "c",
+        "distance_screen.h": "c",
+        "simulator_screen.h": "c",
+        "menu.h": "c"
+    }
+}
